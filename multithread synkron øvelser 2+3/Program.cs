@@ -36,7 +36,7 @@ namespace multithread_synkron_øvelser_2_3
                         Console.Write("*");
                     }
                     count += 60;
-                    Console.Write(" " + count + "\n");
+                    Console.Write(" " + count + "\n"); 
                 }
                 finally
                 {
